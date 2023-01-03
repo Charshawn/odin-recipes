@@ -1,4 +1,26 @@
-body{
-    background-color: lightblue;
+body {
+    background-color: blueviolet;
+}
+h1 {
+    font-weight: bold;
+    color: white;
 
+}
+p a{
+    color: black;
+    font-size: large;
+}
+
+.Salmon {
+    color: black;
+    background-color: pink;
+}
+
+.Steak {
+    background-color: red;
+
+}
+.Korean-Chicken {
+    background-color: yellow;
+    
 }
